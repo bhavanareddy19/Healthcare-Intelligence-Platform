@@ -1,0 +1,133 @@
+DISCHARGE SUMMARY
+
+Patient Name: Robert James Thompson
+DOB: 07/22/1955 (Age: 70)
+MRN: 2024-456123
+Admission Date: 01/10/2026
+Discharge Date: 01/18/2026
+Length of Stay: 8 days
+Attending Physician: Dr. Michael Chen, MD - Cardiology
+Primary Care Physician: Dr. Lisa Wong, MD
+
+ADMISSION DIAGNOSIS:
+Acute decompensated heart failure with reduced ejection fraction
+
+DISCHARGE DIAGNOSES:
+1. Acute on chronic systolic heart failure, NYHA Class III (I50.23)
+2. Coronary artery disease, status post CABG 2018 (I25.10)
+3. Atrial fibrillation with RVR (I48.91)
+4. Type 2 Diabetes Mellitus with chronic kidney disease (E11.22)
+5. Chronic Kidney Disease Stage 4 (N18.4)
+6. Hypertension, essential (I10)
+7. Hyperlipidemia (E78.5)
+8. COPD, moderate (J44.1)
+9. Obstructive sleep apnea (G47.33)
+10. Anemia of chronic disease (D63.1)
+
+BRIEF HOSPITAL COURSE:
+Mr. Thompson is a 70-year-old male with history of ischemic cardiomyopathy (EF 25-30%), CAD s/p CABG (2018), atrial fibrillation, CKD Stage 4, and Type 2 DM who presented to the ED with progressive dyspnea, orthopnea, and lower extremity edema over 5 days.
+
+In the ED, he was found to be in atrial fibrillation with RVR (HR 130s), hypoxic (SpO2 88% on RA), and volume overloaded. BNP was markedly elevated at 2,840 pg/mL. Chest X-ray showed cardiomegaly with bilateral pulmonary edema. He was admitted to the cardiac care unit.
+
+Hospital Course by Problem:
+
+ACUTE DECOMPENSATED HEART FAILURE:
+Patient was aggressively diuresed with IV Furosemide initially 80mg IV BID, then transitioned to continuous infusion at 10mg/hr for 48 hours with excellent response. He achieved net negative fluid balance of 8.2 liters over the admission. Echocardiogram showed EF 25% (unchanged from prior), moderate mitral regurgitation, and elevated PASP of 55 mmHg. Cardiology recommended uptitration of GDMT. Started on Sacubitril-Valsartan 24/26mg BID (transitioned from Lisinopril after 36-hour washout). Continued Carvedilol, increased from 12.5mg BID to 25mg BID as tolerated. Spironolactone 25mg daily continued. On discharge, patient was euvolemic with resolution of peripheral edema and improved breathing.
+
+ATRIAL FIBRILLATION WITH RVR:
+Rate controlled with Carvedilol uptitration and Digoxin 0.125mg daily (renally dosed). Achieved rate control with HR 70-80s. Continued anticoagulation with Apixaban 2.5mg BID (renally dosed). CHA2DS2-VASc score 5, HAS-BLED score 2 - anticoagulation clearly indicated.
+
+ACUTE ON CHRONIC KIDNEY DISEASE:
+Baseline creatinine 2.4, rose to 2.9 on admission (likely cardiorenal syndrome). With diuresis and improved cardiac output, creatinine improved to 2.6 at discharge. eGFR 24 mL/min. Nephrology consulted - recommended continuing current management, avoid nephrotoxins, and discussed future RRT planning given trajectory. Patient not yet interested in dialysis discussion.
+
+TYPE 2 DIABETES MELLITUS:
+Home Metformin held due to AKI and CKD Stage 4. Blood glucose managed with sliding scale insulin during admission. Transitioned to Glipizide 5mg BID at discharge. Average glucose 145-180 during admission. HbA1c 7.8% (from admission labs). Will need close outpatient follow-up for diabetes management.
+
+COPD:
+Continued home Tiotropium and Albuterol PRN. No acute exacerbation during admission.
+
+ANEMIA:
+Hemoglobin 9.8 on admission, 10.2 at discharge. Iron studies consistent with anemia of chronic disease. B12 and folate normal. Discussed EPO therapy with nephrology - will consider as outpatient.
+
+PROCEDURES DURING ADMISSION:
+1. Transthoracic Echocardiogram (01/11/2026)
+2. Right heart catheterization (01/12/2026) - elevated filling pressures, CI 1.9 L/min/m²
+3. Coronary angiography (01/12/2026) - patent grafts, no new significant disease
+
+SIGNIFICANT FINDINGS:
+- EF 25% (stable)
+- BNP: 2,840 pg/mL (admission) → 890 pg/mL (discharge)
+- Creatinine: 2.9 mg/dL (peak) → 2.6 mg/dL (discharge)
+- Hemoglobin: 10.2 g/dL
+- INR: Not applicable (on Apixaban)
+- Weight: 98 kg (admission) → 89 kg (discharge) - 9 kg fluid loss
+
+DISCHARGE MEDICATIONS:
+1. Sacubitril-Valsartan 24/26mg PO BID (NEW - replaces Lisinopril)
+2. Carvedilol 25mg PO BID (increased from 12.5mg)
+3. Spironolactone 25mg PO daily
+4. Furosemide 80mg PO BID (increased from 40mg daily)
+5. Apixaban 2.5mg PO BID
+6. Digoxin 0.125mg PO daily
+7. Atorvastatin 80mg PO at bedtime
+8. Glipizide 5mg PO BID (NEW - Metformin discontinued)
+9. Tiotropium 18mcg INH daily
+10. Albuterol 90mcg INH PRN
+11. Potassium Chloride 20mEq PO daily
+12. Aspirin 81mg PO daily
+13. Pantoprazole 40mg PO daily
+
+DISCONTINUED MEDICATIONS:
+- Lisinopril 20mg (replaced with Sacubitril-Valsartan)
+- Metformin 500mg BID (contraindicated with CKD Stage 4)
+
+ALLERGIES: Codeine (nausea), Amiodarone (thyroid dysfunction)
+
+DISCHARGE CONDITION:
+- Stable, improved
+- Ambulatory with walker
+- SpO2 95% on room air
+- Weight: 89 kg (dry weight target)
+
+DISCHARGE INSTRUCTIONS:
+1. Daily weights - call if gain >3 lbs in 1 day or >5 lbs in 1 week
+2. Fluid restriction: 1.5 liters daily
+3. Low sodium diet (<2g sodium daily)
+4. Take all medications as prescribed
+5. Continue home oxygen at night (2L NC) for sleep apnea
+6. Use CPAP nightly
+7. No driving for 1 week
+8. Activity as tolerated, cardiac rehab referral placed
+9. Follow up appointments as scheduled
+
+WARNING SIGNS - Seek immediate care for:
+- Increasing shortness of breath
+- Chest pain or pressure
+- Weight gain >3 lbs overnight
+- Lightheadedness or fainting
+- Palpitations or rapid heartbeat
+- Decreased urine output
+
+FOLLOW-UP APPOINTMENTS:
+1. Cardiology (Dr. Chen): 01/25/2026 at 10:00 AM
+2. Heart Failure Clinic: 01/22/2026 at 2:00 PM
+3. Nephrology (Dr. Patel): 02/01/2026 at 9:00 AM
+4. Primary Care (Dr. Wong): 01/30/2026 at 11:00 AM
+5. Cardiac Rehabilitation: To be scheduled
+
+PENDING RESULTS AT DISCHARGE:
+- None
+
+CODE STATUS: Full Code (discussed with patient, wishes to continue aggressive care)
+
+HEALTHCARE PROXY: Wife - Margaret Thompson (555-123-4567)
+
+The patient and his wife were educated regarding the diagnosis, treatment plan, medication changes, dietary restrictions, and warning signs. They verbalized understanding and had opportunity to ask questions. Discharge instructions provided in writing.
+
+Dictated by: Dr. Michael Chen, MD
+Cardiology
+
+Electronically signed: 01/18/2026 3:30 PM
+
+cc: Dr. Lisa Wong, MD (PCP)
+    Dr. Raj Patel, MD (Nephrology)

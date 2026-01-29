@@ -1,0 +1,47 @@
+# Healthcare Intelligence Platform - Python Dependencies
+# Compatible versions tested together
+
+# Web Framework
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+python-multipart>=0.0.6
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+starlette>=0.35.0
+
+# LLM & AI
+groq>=0.4.0
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-core>=0.1.16
+langgraph>=0.0.20
+
+# Embeddings & Vector Store
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.4
+torch>=2.1.0
+
+# Document Processing
+PyMuPDF>=1.23.0
+pdfplumber>=0.10.0
+python-docx>=1.1.0
+
+# Data Processing
+pandas>=2.1.0
+numpy>=1.26.0
+
+# Database
+sqlalchemy>=2.0.0
+aiosqlite>=0.19.0
+
+# Utilities
+python-dotenv>=1.0.0
+loguru>=0.7.0
+httpx>=0.26.0
+aiofiles>=23.2.0
+tenacity>=8.2.0
+
+# Testing (optional)
+pytest>=7.4.0
+pytest-asyncio>=0.23.0
+pytest-cov>=4.1.0

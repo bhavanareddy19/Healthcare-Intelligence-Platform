@@ -1,0 +1,183 @@
+CLINICAL PROGRESS NOTE
+
+Patient: Maria Santos
+DOB: 03/15/1958 (Age: 67)
+MRN: 2024-789456
+Date of Service: 01/15/2026
+Provider: Dr. Sarah Mitchell, MD - Internal Medicine
+
+CHIEF COMPLAINT:
+Follow-up visit for diabetes management and new complaints of increasing fatigue and bilateral lower extremity edema.
+
+HISTORY OF PRESENT ILLNESS:
+Ms. Santos is a 67-year-old Hispanic female with a 12-year history of Type 2 Diabetes Mellitus, Hypertension, Hyperlipidemia, and Chronic Kidney Disease Stage 3. She presents today for routine diabetes follow-up and reports worsening fatigue over the past 3 weeks. She also notes bilateral ankle swelling that is worse at the end of the day. She denies chest pain, shortness of breath at rest, orthopnea, or PND. She reports compliance with her medications but admits to dietary indiscretions during the recent holiday season.
+
+Her last HbA1c was 8.2% (3 months ago), up from 7.4% six months prior. She checks her blood glucose at home 2-3 times weekly with readings ranging from 140-220 mg/dL fasting.
+
+PAST MEDICAL HISTORY:
+1. Type 2 Diabetes Mellitus - diagnosed 2012
+2. Essential Hypertension - diagnosed 2008
+3. Hyperlipidemia - diagnosed 2010
+4. Chronic Kidney Disease Stage 3a (eGFR 52) - diagnosed 2021
+5. Obesity (BMI 34.2)
+6. Diabetic Retinopathy - mild nonproliferative
+7. Peripheral Neuropathy - bilateral feet
+8. Osteoarthritis - bilateral knees
+
+SURGICAL HISTORY:
+- Cholecystectomy (2015)
+- Right knee arthroscopy (2019)
+
+FAMILY HISTORY:
+- Father: deceased at 72, MI, Type 2 DM
+- Mother: living at 89, HTN, dementia
+- Brother: Type 2 DM, CAD with CABG at 65
+- Sister: Breast cancer, survivor
+
+SOCIAL HISTORY:
+- Former smoker, quit 15 years ago (20 pack-year history)
+- Alcohol: occasional wine with dinner (1-2 glasses/week)
+- Occupation: Retired school teacher
+- Lives with husband, 2 adult children nearby
+- Exercise: Walks 15-20 minutes, 3x/week
+
+ALLERGIES:
+- Penicillin (rash)
+- Sulfa drugs (hives)
+
+CURRENT MEDICATIONS:
+1. Metformin 1000mg PO BID
+2. Glipizide 10mg PO BID
+3. Lisinopril 40mg PO daily
+4. Amlodipine 10mg PO daily
+5. Atorvastatin 40mg PO at bedtime
+6. Aspirin 81mg PO daily
+7. Gabapentin 300mg PO TID
+8. Vitamin D3 2000 IU daily
+9. Furosemide 20mg PO daily (recently added)
+
+REVIEW OF SYSTEMS:
+Constitutional: Fatigue, no fever, no unintentional weight loss
+HEENT: No vision changes recently, last eye exam 4 months ago
+Cardiovascular: No chest pain, palpitations; + bilateral LE edema
+Respiratory: No cough, dyspnea, or wheezing
+GI: No nausea, vomiting, diarrhea, or constipation
+GU: Nocturia x2, no dysuria or hematuria
+Musculoskeletal: Chronic bilateral knee pain, no new joint symptoms
+Neurological: Numbness/tingling bilateral feet (chronic), no weakness
+Skin: No rashes or wounds
+Psychiatric: No depression or anxiety symptoms
+
+PHYSICAL EXAMINATION:
+Vitals:
+- BP: 148/88 mmHg (seated, left arm)
+- HR: 78 bpm, regular
+- RR: 16/min
+- Temp: 98.4°F
+- SpO2: 97% on room air
+- Weight: 198 lbs (90 kg)
+- Height: 5'4" (163 cm)
+- BMI: 34.2 kg/m²
+
+General: Well-appearing, alert, oriented, no acute distress
+HEENT: PERRLA, EOMI, oropharynx clear
+Neck: No JVD, no thyromegaly, no lymphadenopathy
+Cardiovascular: RRR, normal S1/S2, no murmurs/gallops/rubs
+Lungs: CTA bilaterally, no wheezes/rhonchi/rales
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds
+Extremities: 2+ pitting edema bilateral lower extremities to mid-shin, no cyanosis, pedal pulses 1+ bilaterally
+Skin: Warm, dry, intact. No ulcers or lesions on feet
+Neurological: Decreased monofilament sensation bilateral feet, DTRs 1+ at ankles bilaterally
+
+LABORATORY RESULTS (obtained today):
+- HbA1c: 8.6%
+- Fasting Glucose: 186 mg/dL
+- BUN: 32 mg/dL (H)
+- Creatinine: 1.4 mg/dL (H)
+- eGFR: 48 mL/min/1.73m² (decreased from 52)
+- Sodium: 138 mEq/L
+- Potassium: 4.8 mEq/L
+- Chloride: 102 mEq/L
+- CO2: 24 mEq/L
+- Total Cholesterol: 198 mg/dL
+- LDL: 112 mg/dL (above goal)
+- HDL: 42 mg/dL (L)
+- Triglycerides: 220 mg/dL (H)
+- ALT: 28 U/L
+- AST: 25 U/L
+- Urinalysis: 2+ protein, no glucose, no blood
+- Urine Albumin/Creatinine Ratio: 180 mg/g (H) - indicates moderate albuminuria
+
+ASSESSMENT AND PLAN:
+
+1. TYPE 2 DIABETES MELLITUS, UNCONTROLLED (E11.65)
+   - HbA1c increased to 8.6%, above goal of <7.5% for this patient
+   - Will add Empagliflozin 10mg daily - has CV and renal protective benefits
+   - Continue Metformin 1000mg BID (renal function still allows)
+   - Continue Glipizide 10mg BID
+   - Dietary counseling provided, referred to diabetes educator
+   - Goal HbA1c <7.5%, fasting glucose 80-130 mg/dL
+   - Recheck HbA1c in 3 months
+
+2. CHRONIC KIDNEY DISEASE, STAGE 3b (N18.4)
+   - eGFR declined from 52 to 48, now Stage 3b
+   - New onset moderate albuminuria (UACR 180)
+   - Started Empagliflozin for renal protection
+   - Continue ACE inhibitor (Lisinopril)
+   - Referral to nephrology for co-management
+   - Avoid NSAIDs, limit protein intake
+   - Monitor potassium closely
+
+3. HYPERTENSION, ESSENTIAL (I10)
+   - BP 148/88, not at goal (<130/80 per guidelines)
+   - Continue Lisinopril 40mg and Amlodipine 10mg
+   - Consider adding Chlorthalidone if BP remains elevated
+   - Home BP monitoring advised, target <130/80
+   - Dietary sodium restriction counseling
+
+4. HYPERLIPIDEMIA (E78.5)
+   - LDL 112, above goal of <70 for diabetic patient with CKD
+   - Increase Atorvastatin to 80mg at bedtime
+   - Continue dietary modifications
+   - Recheck lipid panel in 6 weeks
+
+5. PERIPHERAL EDEMA (R60.0)
+   - Bilateral LE edema, likely multifactorial (CKD, venous insufficiency, amlodipine)
+   - Continue Furosemide 20mg daily
+   - Leg elevation, compression stockings recommended
+   - Monitor weight daily
+   - If worsening, may need cardiology evaluation
+
+6. DIABETIC PERIPHERAL NEUROPATHY (E11.42)
+   - Chronic, stable on current Gabapentin regimen
+   - Continue Gabapentin 300mg TID
+   - Annual foot exams, proper footwear
+   - Patient educated on foot care and daily inspection
+
+7. OBESITY (E66.9)
+   - BMI 34.2, contributing to metabolic syndrome
+   - Discussed weight loss strategies
+   - Empagliflozin may assist with modest weight loss
+   - Goal: 5-10% weight reduction over 6-12 months
+   - Consider referral to medical weight management if interested
+
+PREVENTIVE CARE:
+- Influenza vaccine: Given today
+- Pneumococcal vaccine: Up to date
+- Colonoscopy: Due (last done 2015) - ordered
+- Mammogram: Due - ordered
+- Diabetic eye exam: Last 4 months ago, annual follow-up scheduled
+- Podiatry referral: Annual diabetic foot exam
+
+FOLLOW-UP:
+- Return in 4 weeks to assess response to medication changes
+- Labs before next visit: BMP, HbA1c
+- Call if symptoms worsen: increased swelling, shortness of breath, chest pain, weight gain >3 lbs in 1 week
+
+Patient verbalized understanding of the treatment plan and all questions were answered.
+Time spent: 35 minutes, greater than 50% in counseling and coordination of care.
+
+Electronically signed by:
+Dr. Sarah Mitchell, MD
+Internal Medicine
+01/15/2026 11:45 AM

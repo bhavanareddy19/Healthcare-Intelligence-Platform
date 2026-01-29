@@ -1,0 +1,173 @@
+EMERGENCY DEPARTMENT NOTE
+
+Patient: Jennifer Anne Williams
+DOB: 11/08/1972 (Age: 53)
+MRN: 2024-321789
+Date/Time: 01/20/2026, 14:32
+Chief Complaint: Chest pain and shortness of breath
+
+TRIAGE INFORMATION:
+Arrival: 14:32 via EMS
+Triage Level: ESI Level 2 (Emergent)
+Vitals on Arrival:
+- BP: 168/102 mmHg
+- HR: 112 bpm, irregular
+- RR: 24/min
+- Temp: 99.1°F (37.3°C)
+- SpO2: 91% on room air
+- Pain Scale: 8/10
+
+HISTORY OF PRESENT ILLNESS:
+53-year-old female with history of poorly controlled Type 2 DM, HTN, obesity, and 35 pack-year smoking history presents with acute onset substernal chest pain that started approximately 2 hours ago while at rest watching television. Pain is described as "pressure-like," 8/10 severity, radiating to left arm and jaw. Associated with diaphoresis, nausea (no vomiting), and shortness of breath. Patient took 2 aspirin at home before calling 911.
+
+EMS administered aspirin 324mg (patient already took 162mg at home), started oxygen at 4L NC (SpO2 improved to 96%), obtained 12-lead ECG showing ST elevations in leads V1-V4, and established IV access. Patient received sublingual nitroglycerin x2 with partial relief of chest pain (now 5/10).
+
+REVIEW OF SYSTEMS:
+Constitutional: Diaphoresis, malaise
+Cardiovascular: Chest pain, palpitations
+Respiratory: Shortness of breath, no cough
+GI: Nausea, no vomiting
+Neurological: No headache, no focal weakness
+All other systems negative
+
+PAST MEDICAL HISTORY:
+1. Type 2 Diabetes Mellitus - poorly controlled (last HbA1c 9.8%)
+2. Hypertension - poorly controlled
+3. Hyperlipidemia - not on statin (patient declined previously)
+4. Obesity (BMI 38.5)
+5. GERD
+6. Anxiety disorder
+7. Former smoker (quit 2 months ago, 35 pack-year history)
+
+SURGICAL HISTORY:
+- Appendectomy (1995)
+- C-section x2 (1998, 2001)
+
+MEDICATIONS:
+1. Metformin 1000mg BID (admits non-compliance)
+2. Lisinopril 20mg daily (often forgets)
+3. Omeprazole 20mg daily
+4. Alprazolam 0.5mg PRN anxiety
+
+ALLERGIES: NKDA
+
+FAMILY HISTORY:
+- Father: MI at age 58, died at 62 from second MI
+- Mother: Type 2 DM, stroke at 70
+- Brother: CAD, stent at 52
+
+SOCIAL HISTORY:
+- Tobacco: Former smoker, quit 2 months ago, 35 pack-year history
+- Alcohol: Social, 2-3 drinks/week
+- Drugs: Denies
+- Occupation: Office manager
+- Marital Status: Divorced, 2 adult children
+
+PHYSICAL EXAMINATION:
+General: Anxious, diaphoretic female in moderate distress
+HEENT: Normocephalic, pupils equal and reactive, moist mucous membranes
+Neck: No JVD, no carotid bruits
+Cardiovascular: Tachycardic, irregular rhythm, no murmurs, rubs, or gallops
+Lungs: Bibasilar crackles, no wheezes
+Abdomen: Soft, non-tender, obese
+Extremities: No edema, pulses 2+ bilaterally
+Neurological: Alert, oriented x3, no focal deficits
+Skin: Diaphoretic, no rashes
+
+DIAGNOSTIC WORKUP:
+
+ECG (14:38): Sinus tachycardia with frequent PVCs, ST elevation V1-V4 (2-3mm), reciprocal ST depression in II, III, aVF. Findings consistent with acute anterior STEMI.
+
+LABORATORY RESULTS:
+- Troponin I: 2.8 ng/mL (H) [normal <0.04]
+- BNP: 580 pg/mL (H)
+- CBC: WBC 12.4, Hgb 13.2, Plt 245
+- BMP: Na 139, K 4.2, Cl 101, CO2 22, BUN 18, Cr 1.1, Glucose 287 (H)
+- PT/INR: 12.1/1.0
+- PTT: 28 seconds
+
+Chest X-Ray (portable): Mild cardiomegaly, early pulmonary vascular congestion, no pneumothorax
+
+EMERGENCY DEPARTMENT COURSE:
+1. Acute STEMI protocol activated at 14:42
+2. Cardiology notified - Dr. Ramirez responded immediately
+3. Cath lab activated - door-to-balloon time goal <90 minutes
+4. Medications administered:
+   - Aspirin 324mg PO (total 486mg including home dose)
+   - Ticagrelor 180mg PO loading dose
+   - Heparin 5000 unit IV bolus, then infusion
+   - Atorvastatin 80mg PO
+   - Metoprolol 5mg IV x2 (HR now 88, BP 142/88)
+   - Morphine 2mg IV for pain (now 3/10)
+   - Ondansetron 4mg IV for nausea
+5. Oxygen continued at 4L NC, SpO2 97%
+6. Patient consented for cardiac catheterization
+
+CARDIAC CATHETERIZATION RESULTS (performed 15:18-15:52):
+- Left Main: No significant disease
+- LAD: 99% thrombotic occlusion in proximal segment (CULPRIT LESION)
+- LCx: 50% stenosis in mid-segment
+- RCA: 60% stenosis in proximal segment
+- Intervention: Successful PCI to proximal LAD with drug-eluting stent (3.0 x 28mm)
+- Post-PCI TIMI 3 flow achieved
+- Door-to-balloon time: 68 minutes
+
+POST-PROCEDURE VITAL SIGNS:
+- BP: 128/78 mmHg
+- HR: 76 bpm, regular sinus rhythm
+- SpO2: 98% on 2L NC
+- Pain: 0/10
+
+ASSESSMENT:
+1. Acute anterior ST-elevation myocardial infarction (I21.0) - status post successful PCI with DES to LAD
+2. Type 2 Diabetes Mellitus, uncontrolled (E11.65)
+3. Essential Hypertension (I10)
+4. Hyperlipidemia (E78.5)
+5. Obesity (E66.9)
+6. Tobacco use disorder, in early remission (F17.211)
+
+DISPOSITION:
+Admitted to Cardiac Care Unit (CCU) for post-MI monitoring
+
+MEDICATIONS ON ADMISSION TO CCU:
+1. Aspirin 81mg PO daily
+2. Ticagrelor 90mg PO BID (CRITICAL - cannot miss doses for 12 months)
+3. Atorvastatin 80mg PO at bedtime
+4. Metoprolol Succinate 50mg PO daily
+5. Lisinopril 10mg PO daily (reduced dose given current BP)
+6. Heparin infusion per protocol (will transition to LMWH)
+7. Insulin sliding scale (hold Metformin for now)
+8. Pantoprazole 40mg PO daily
+9. PRN medications as ordered
+
+CRITICAL FOLLOW-UP REQUIRED:
+1. Echo in 48-72 hours to assess LV function
+2. Cardiac rehabilitation referral
+3. Smoking cessation counseling (congratulate on quitting, reinforce)
+4. Diabetes management - endocrinology consult
+5. Aggressive lipid management
+6. Dual antiplatelet therapy for minimum 12 months (CRITICAL)
+7. Medication compliance counseling
+
+RISK STRATIFICATION:
+- TIMI Risk Score: 5 (high risk)
+- GRACE Score: 142 (high risk for 6-month mortality)
+- HEART Score: 8 (high risk)
+
+Patient and family (daughter present) educated on:
+- Diagnosis of heart attack
+- Importance of medication compliance, especially dual antiplatelet therapy
+- Lifestyle modifications needed
+- Warning signs to watch for
+- Follow-up care requirements
+
+Attending Physician: Dr. Amanda Foster, MD
+Emergency Medicine
+
+Cardiology Consultant: Dr. Carlos Ramirez, MD
+Interventional Cardiology
+
+Electronically signed: 01/20/2026 17:45
+
+Admitted to: CCU, Bed 4
+Admitting Physician: Dr. Carlos Ramirez, MD

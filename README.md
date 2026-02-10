@@ -173,15 +173,11 @@ The structured results are sent back to the frontend and displayed.
 
 <div align="center">
 
-**[▶️ Watch Full Demo Video](https://github.com/bhavanareddy19/Healthcare-Intelligence-Platform/blob/main/live_demo.mp4)**
+![Healthcare Intelligence Platform Demo](./live_demo.gif)
 
-<video src="https://github.com/bhavanareddy19/Healthcare-Intelligence-Platform/assets/live_demo.mp4" controls width="800">
-  Your browser does not support the video tag. <a href="./live_demo.mp4">Download the demo video</a>
-</video>
+*Healthcare Intelligence Platform in action: document upload → semantic search → multi-agent analysis → real-time analytics dashboard*
 
-*Healthcare Intelligence Platform in action: document upload → semantic search → multi-agent analysis → real-time analytics*
-
-> **Note:** If the video doesn't display above, [click here to view it directly](https://github.com/bhavanareddy19/Healthcare-Intelligence-Platform/blob/main/live_demo.mp4) or [download it](./live_demo.mp4)
+> **📹 Full Quality Video:** [Watch live_demo.mp4](./live_demo.mp4) (higher quality, 2.5 min)
 
 </div>
 

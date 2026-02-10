@@ -84,6 +84,68 @@ Healthcare organizations process **thousands of clinical documents daily** -- di
 
 **Healthcare Intelligence Platform** solves this by combining **Retrieval-Augmented Generation (RAG)**, **Multi-Agent AI orchestration**, and **vector similarity search** into a single production-grade system that reads, understands, and extracts structured intelligence from clinical documents in real time.
 
+### How the Platform Works (End-to-End Flow)
+
+**When a user uploads a clinical document:**
+
+```
+Step 1: UPLOAD
+User uploads a clinical document (PDF, TXT, or DOCX) through the web interface.
+
+Step 2: EXTRACT
+The backend reads the file content. For PDFs it uses PyMuPDF to pull out
+the raw text. For DOCX files it uses python-docx.
+
+Step 3: CLEAN
+The raw text goes through a medical text cleaner that:
+  - Expands 100+ medical abbreviations (htn -> hypertension, dm -> diabetes mellitus)
+  - Normalizes whitespace and formatting
+  - Detects clinical sections (History, Assessment, Plan, etc.)
+  - Flags potential PHI/PII patterns
+
+Step 4: CHUNK
+The cleaned text is split into overlapping chunks (1000 characters each,
+with 200 characters of overlap). This ensures no information is lost at
+chunk boundaries.
+
+Step 5: EMBED
+Each chunk is converted into a 768-dimensional numerical vector using
+PubMedBERT (a medical-domain-specific AI model). This vector captures
+the semantic meaning of the text.
+
+Step 6: INDEX
+The vectors are stored in a FAISS vector database for fast similarity
+search later.
+
+Step 7: READY
+The document is now searchable and analyzable.
+```
+
+**When a user runs an analysis:**
+
+```
+Step 1: USER TRIGGERS ANALYSIS
+User selects a document and clicks "Analyze".
+
+Step 2: ORCHESTRATOR ACTIVATES
+The Agent Orchestrator receives the request and activates up to 15
+specialized AI agents simultaneously using asyncio.gather().
+
+Step 3: EACH AGENT WORKS
+Each agent:
+  a) Takes the clinical text
+  b) Searches the FAISS vector store for relevant context (RAG retrieval)
+  c) Assembles a specialized prompt (e.g., "Extract all diagnoses from this text...")
+  d) Sends the prompt + context to the Groq LLM API (Llama 3.3 70B model)
+  e) Parses the LLM response into structured JSON
+
+Step 4: RESULTS AGGREGATED
+All 15 agent results are collected and an executive summary is generated.
+
+Step 5: RESPONSE DELIVERED
+The structured results are sent back to the frontend and displayed.
+```
+
 <br>
 
 ### What Makes This Project Stand Out
@@ -104,6 +166,18 @@ Healthcare organizations process **thousands of clinical documents daily** -- di
 |                                                                           |
 +---------------------------------------------------------------------------+
 ```
+
+<br>
+
+### Live Demo
+
+<div align="center">
+
+![Platform Demo](live_demo.mp4)
+
+*Watch the Healthcare Intelligence Platform in action: document upload, semantic search, multi-agent analysis, and real-time analytics dashboard*
+
+</div>
 
 <br>
 
